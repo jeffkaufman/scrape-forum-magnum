@@ -60,7 +60,7 @@ queries = {
 }
 
 endpoints = {
-    "ea": "https://forum.effectivealtruism.org/graphql?",
+    "ea": " https://forum-bots.effectivealtruism.org/graphql?",
     "lw": "https://www.lesswrong.com/graphql?",
 }
 
